@@ -1,5 +1,4 @@
-# Project Name
-Melanoma Skin Cancer Detection
+# Melanoma Skin Cancer Detection
 
 ## Table of Contents
 * [General Info](#general-information)
