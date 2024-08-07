@@ -20,6 +20,7 @@
 
 ## Technologies Used
 - Python 3
+- Google Colab
 - pandas
 - matplotlib
 - seaborn
