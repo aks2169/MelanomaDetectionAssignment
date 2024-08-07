@@ -1,7 +1,7 @@
 # Melanoma Skin Cancer Detection
 
 ## Table of Contents
-* [General Info](#general-information)
+* [Problem statement](#problem-statement)
 * [Technologies Used](#technologies-used)
 * [Conclusions](#conclusions)
 * [Acknowledgements](#acknowledgements)
